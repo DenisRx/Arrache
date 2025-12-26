@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Les Yeux Fermés",
+    "instructions": "Tout le monde ferme les yeux. Chacun notre tour aléatoirement on doit compter à voix haute jusqu'à 20. Si des joueurs parlent en même temps ils boivent."
+  },
+  {
+    "title": "La Bataille Picole",
+    "instructions": "Chacun tire une carte. La carte la plus faible boit. La carte la plus haute boit."
+  },
+  {
+    "title": "Le Célibataire",
+    "instructions": "Si tu es célibataire, bois avec un autre célib."
+  },
+  {
+    "title": "La Dame Pourrie",
+    "instructions": ""
+  },
+  {
+    "title": "Le Remplisseur",
+    "instructions": "Sers une fois chaque personne dès que son verre est vide."
+  },
+  {
+    "title": "Le Remplisseur",
+    "instructions": "Sers une fois chaque personne dès que son verre est vide."
+  },
+  {
+    "title": "Les Cartes Mystères",
+    "instructions": "Avant le début, on choisit 3 cartes pièges. Paquet de cartes au milieu, chacun notre tour, on tire une carte. Si la personne tire une des cartes pièges, elle boit."
+  },
+  {
+    "title": "Le Distributeur",
+    "instructions": "Distribue 5 gorgées."
+  },
+  {
+    "title": "Party Roulette",
+    "instructions": "Ouvrez l'application Party Roulette."
+  },
+  {
+    "title": "Glouglou",
+    "instructions": "Ouvrez l'application Glouglou."
+  },
+  {
+    "title": "Picolo",
+    "instructions": "Ouvrez l'application Picolo."
+  },
+  {
+    "title": "Cheh !",
+    "instructions": "T'as pioché ? Pour la peine tu bois."
+  },
+  {
+    "title": "Le Signe Astro",
+    "instructions": "Si plusieurs personnes ont le même signe astro, vous buvez autant de gorgées qu'il y a de personnes de ce signe. Si tu es le seul de ton signe, tu bois 1."
+  },
+  {
+    "title": "Le Batard",
+    "instructions": "Choisis 2 dates. Ceux qui sont nés à ces dates prennent cul sec."
+  },
+  {
+    "title": "Le Défi Alphabet",
+    "instructions": "En début de partie, on choisit une catégorie (métiers, fruits, pays ...). Chacun notre tour, on doit dire un mot en suivant l'alphabet. Bloqué ? Tu bois."
+  },
+  {
+    "title": "Flip Cup",
+    "instructions": "Course en relais par équipes. Boire son gobelet rapidement, faire un flip sur la table. Les perdants boivent."
+  },
+  {
+    "title": "Beer Pong",
+    "instructions": ""
+  },
+  {
+    "title": "Secret Story",
+    "instructions": "Chacun écrit un secret sur un papier et on doit deviner à qui appartient le secret."
+  },
+  {
+    "title": "Le Dé Maudit",
+    "instructions": "Lance un dé. 1 : Tu bois, 2 : Tu choisis qui boit, 3 : Tout le monde boit, 4 : Tu inventes une règle, 5 : Bois 5 gorgées, 6 : Relance."
+  },
+  {
+    "title": "Le Jeu De La Règle",
+    "instructions": ""
+  },
+  {
+    "title": "Les Extrémités",
+    "instructions": "Le plus vieux et le plus jeune distribuent les gorgées qu'ils veulent à 2 joueurs."
+  },
+  {
+    "title": "Les Vieux",
+    "instructions": "Les 2 plus vieux boivent 2 gorgées."
+  },
+  {
+    "title": "Les 2003",
+    "instructions": "Ceux qui ont 22 ans prennent 2 gorgées."
+  },
+  {
+    "title": "Les 2004",
+    "instructions": "Ceux qui ont 21 ans prennent cul sec."
+  },
+  {
+    "title": "Les Filles",
+    "instructions": "Toutes les filles boivent."
+  },
+  {
+    "title": "Les Garçons",
+    "instructions": "Toutes les garçons boivent."
+  },
+  {
+    "title": "Musical Chair Flips Cups",
+    "instructions": "Des gobelets retournés au milieu de la table (toujours mettre 1 gobelet de moins que le nombre de participants). On tourne autour de la table avec de la musique. Musique qui s'éteint. On prend tous un gobelet, le dernier à faire un flip avec le gobelet boit et est éliminé. On recommence en enlevant un gobelet."
+  },
+  {
+    "title": "Power Hour",
+    "instructions": "Toutes les minutes on boit une gorgée pendant 1h."
+  },
+  {
+    "title": "Quinito",
+    "instructions": ""
+  },
+  {
+    "title": "Jeu Du 21",
+    "instructions": ""
+  },
+  {
+    "title": "Jeu Du Menteur",
+    "instructions": ""
+  },
+  {
+    "title": "Les Cartes Interdites",
+    "instructions": "Chaque couleur représente une catégorie : ❤\uFE0F : Tu bois avec quelqu'un d'autre, ♦\uFE0F : Tu distribues, ♣\uFE0F : T'es sauvé, ♠\uFE0F : Tu bois."
+  },
+  {
+    "title": "Qui Est Le Plus",
+    "instructions": "Le joueur le plus désigné doit boire."
+  },
+  {
+    "title": "Ni Oui Ni Non",
+    "instructions": "Pendant 15min interdiction de répondre par oui ou par non."
+  }
+]
